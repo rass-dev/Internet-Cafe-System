@@ -1,0 +1,160 @@
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\bin\Debug\BIBLE.exe.config
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\bin\Debug\BIBLE.exe
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\bin\Debug\BIBLE.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\bin\Debug\ReaLTaiizor.dll
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\bin\Debug\ReaLTaiizor.xml
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\Internet Cafe System.csproj.AssemblyReference.cache
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.Form1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formDashboard.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formSub2.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formUsers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formAbout.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.formSub1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.Properties.Resources.resources
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\Internet Cafe System.csproj.GenerateResource.cache
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\Internet Cafe System.csproj.CoreCompileInputs.cache
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\Internet.7654283D.Up2Date
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.exe
+C:\Users\rassa\source\repos\Internet Cafe System\Internet Cafe System\obj\Debug\BIBLE.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\BIBLE.exe.config
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\BIBLE.exe
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\BIBLE.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\ReaLTaiizor.dll
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\ReaLTaiizor.xml
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet Cafe System.csproj.AssemblyReference.cache
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.Form1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formDashboard.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formSub2.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formUsers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formAbout.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formSub1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.Properties.Resources.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet Cafe System.csproj.GenerateResource.cache
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet Cafe System.csproj.CoreCompileInputs.cache
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet.7654283D.Up2Date
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.exe
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\InternetCafe.exe.config
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\InternetCafe.exe
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\InternetCafe.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\ReaLTaiizor.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\ReaLTaiizor.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet Cafe System.csproj.AssemblyReference.cache
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Custom_Pay_Rate.formCustomPayRate.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Custom_Pay_Rate.formUpdatePaymentStatus.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.formComputer_Extend_Time.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Saved_Time.formContinueSaveTime.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Form1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAddAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Members.formAdminRegister.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Login.formLOGIN_REGISTER.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAddMembers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAdminLogin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formDashboard.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAddComp.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formEditAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formEditMembers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formEditPC.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formManagePC_Time_Amount.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formMembers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAbout.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formManagePC.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formComputer_Manage_Time.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Properties.Resources.resources
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet Cafe System.csproj.GenerateResource.cache
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet Cafe System.csproj.CoreCompileInputs.cache
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet.7654283D.Up2Date
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.exe
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\SimpleTCP.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\Guna.UI2.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\RestSharp.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Buffers.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.CodeDom.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Memory.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Text.Json.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\RestSharp.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Buffers.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.CodeDom.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Memory.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Text.Json.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rassa\source\repos\Internet Cafe System\InternetCafeSystem\bin\Debug\System.ValueTuple.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\InternetCafe.exe.config
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\InternetCafe.exe
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\InternetCafe.pdb
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\Bunifu.Licensing.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\Guna.UI2.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\ReaLTaiizor.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\RestSharp.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\SimpleTCP.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Buffers.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.CodeDom.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Memory.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Text.Json.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.ValueTuple.dll
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\ReaLTaiizor.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\RestSharp.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Buffers.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.CodeDom.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Memory.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Text.Json.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\bin\Debug\System.ValueTuple.xml
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet Cafe System.csproj.AssemblyReference.cache
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Custom_Pay_Rate.formCustomPayRate.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Custom_Pay_Rate.formUpdatePaymentStatus.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.formComputer_Extend_Time.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Manage_Session.formSave_Time.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Computers.Computer_View.Computer_Session.Saved_Time.formContinueSaveTime.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Form1.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAddAdmin.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Members.formAdminRegister.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Login.formLOGIN_REGISTER.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAddMembers.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAdmin.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAdminLogin.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formDashboard.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAddComp.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formEditAdmin.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formEditMembers.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formEditPC.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formManagePC_Time_Amount.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formMembers.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formAbout.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formManagePC.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formViewAllPC.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.formComputer_Manage_Time.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.Properties.Resources.resources
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet Cafe System.csproj.GenerateResource.cache
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet Cafe System.csproj.CoreCompileInputs.cache
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\Internet.7654283D.Up2Date
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.exe
+D:\Windows\Documents\C# Projects\PROJECT\INTERNET CAFE\SAVE\saved 22 05 45 latest\Internet Cafe System\InternetCafeSystem\obj\Debug\InternetCafe.pdb

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{455A6B5A-2251-4D70-817F-7A93DBD823E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>InternetCafe</RootNamespace>
+    <AssemblyName>InternetCafe</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Licensing.6.0.2\lib\net48\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.7.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ReaLTaiizor, Version=3.8.0.5, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ReaLTaiizor.3.8.0.5\lib\net48\ReaLTaiizor.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=110.2.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.110.2.0\lib\net471\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleTCP, Version=1.0.24.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SimpleTCP.1.0.24\lib\net45\SimpleTCP.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.CodeDom, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.CodeDom.8.0.0\lib\net462\System.CodeDom.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.7.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=7.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.7.0.2\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Custom Pay Rate\formCustomPayRate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Custom Pay Rate\formCustomPayRate.Designer.cs">
+      <DependentUpon>formCustomPayRate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Custom Pay Rate\formUpdatePaymentStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Custom Pay Rate\formUpdatePaymentStatus.Designer.cs">
+      <DependentUpon>formUpdatePaymentStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\formComputer_Extend_Time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\formComputer_Extend_Time.Designer.cs">
+      <DependentUpon>formComputer_Extend_Time.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\Saved Time\formContinue_Save_Time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\Saved Time\formContinue_Save_Time.Designer.cs">
+      <DependentUpon>formContinue_Save_Time.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Main\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Main\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Admins\formAddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Admins\formAddAdmin.Designer.cs">
+      <DependentUpon>formAddAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Login\Extra\formLOGIN_REGISTER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Login\Extra\formLOGIN_REGISTER.Designer.cs">
+      <DependentUpon>formLOGIN_REGISTER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Members\formAddMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Members\formAddMembers.Designer.cs">
+      <DependentUpon>formAddMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Admins\formAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Admins\formAdmin.Designer.cs">
+      <DependentUpon>formAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Login\formAdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Login\formAdminLogin.Designer.cs">
+      <DependentUpon>formAdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Main\formDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Main\formDashboard.Designer.cs">
+      <DependentUpon>formDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Manage Computers\formAddComp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Manage Computers\formAddComp.Designer.cs">
+      <DependentUpon>formAddComp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Admins\formEditAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Admins\formEditAdmin.Designer.cs">
+      <DependentUpon>formEditAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Login\Extra\formAdminRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Login\Extra\formAdminRegister.Designer.cs">
+      <DependentUpon>formAdminRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Members\formEditMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Members\formEditMembers.Designer.cs">
+      <DependentUpon>formEditMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Members\formMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Members\formMembers.Designer.cs">
+      <DependentUpon>formMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Main\Extra\formAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Main\Extra\formAbout.Designer.cs">
+      <DependentUpon>formAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Manage Computers\formEditPC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Manage Computers\formEditPC.Designer.cs">
+      <DependentUpon>formEditPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Manage Computers\formManagePC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Manage Computers\formManagePC.Designer.cs">
+      <DependentUpon>formManagePC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\formManagePC_Time_Amount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\formManagePC_Time_Amount.Designer.cs">
+      <DependentUpon>formManagePC_Time_Amount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\formComputer_Manage_Time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\formComputer_Manage_Time.Designer.cs">
+      <DependentUpon>formComputer_Manage_Time.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Server\mdiProperties.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Admin_Server\Computers\Computer View\Computer Session\Custom Pay Rate\formCustomPayRate.resx">
+      <DependentUpon>formCustomPayRate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Computers\Computer View\Computer Session\Custom Pay Rate\formUpdatePaymentStatus.resx">
+      <DependentUpon>formUpdatePaymentStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\formComputer_Extend_Time.resx">
+      <DependentUpon>formComputer_Extend_Time.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\Saved Time\formContinue_Save_Time.resx">
+      <DependentUpon>formContinue_Save_Time.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Main\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Admins\formAddAdmin.resx">
+      <DependentUpon>formAddAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Login\Extra\formAdminRegister.resx">
+      <DependentUpon>formAdminRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Login\Extra\formLOGIN_REGISTER.resx">
+      <DependentUpon>formLOGIN_REGISTER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Members\formAddMembers.resx">
+      <DependentUpon>formAddMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Admins\formAdmin.resx">
+      <DependentUpon>formAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Login\formAdminLogin.resx">
+      <DependentUpon>formAdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Main\formDashboard.resx">
+      <DependentUpon>formDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Computers\Manage Computers\formAddComp.resx">
+      <DependentUpon>formAddComp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Admins\formEditAdmin.resx">
+      <DependentUpon>formEditAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Members\formEditMembers.resx">
+      <DependentUpon>formEditMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Computers\Manage Computers\formEditPC.resx">
+      <DependentUpon>formEditPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\formManagePC_Time_Amount.resx">
+      <DependentUpon>formManagePC_Time_Amount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Members\formMembers.resx">
+      <DependentUpon>formMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Main\Extra\formAbout.resx">
+      <DependentUpon>formAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Computers\Manage Computers\formManagePC.resx">
+      <DependentUpon>formManagePC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Server\Computers\Computer View\Computer Session\Manage Session\formComputer_Manage_Time.resx">
+      <DependentUpon>formComputer_Manage_Time.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Admin_Server\App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

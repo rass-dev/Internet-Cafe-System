@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\mdiproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\mdiproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formusers.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formusers.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formmanagepc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formmanagepc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formdashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formdashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formadminlogin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formadminlogin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formadminlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formadminlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formadmin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formadmin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formaddcomp.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formaddcomp.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formaddcomp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formaddcomp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formabout.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formabout.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formabout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formabout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\formabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\formabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|c:\\users\\rassa\\source\\repos\\internet cafe system\\internetcafesystem\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{455A6B5A-2251-4D70-817F-7A93DBD823E8}|InternetCafeSystem\\Internet Cafe System.csproj|solutionrelative:internetcafesystem\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\Program.cs",
+              "RelativeToolTip": "InternetCafeSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:34:20.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\packages.config",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\packages.config",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\packages.config",
+              "RelativeToolTip": "InternetCafeSystem\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-04T10:34:16.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mdiProperties.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\mdiProperties.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\mdiProperties.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\mdiProperties.cs",
+              "RelativeToolTip": "InternetCafeSystem\\mdiProperties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:34:07.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formUsers.resx",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formUsers.resx",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formUsers.resx",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formUsers.resx",
+              "RelativeToolTip": "InternetCafeSystem\\formUsers.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-04T10:34:06.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formUsers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formUsers.Designer.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formUsers.Designer.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formUsers.Designer.cs",
+              "RelativeToolTip": "InternetCafeSystem\\formUsers.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:34:01.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formManagePC.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formManagePC.Designer.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formManagePC.Designer.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formManagePC.Designer.cs",
+              "RelativeToolTip": "InternetCafeSystem\\formManagePC.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:33:44.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "formDashboard.resx",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formDashboard.resx",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formDashboard.resx",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formDashboard.resx",
+              "RelativeToolTip": "InternetCafeSystem\\formDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-04T10:33:42.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "formDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formDashboard.Designer.cs",
+              "RelativeToolTip": "InternetCafeSystem\\formDashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:33:38.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "formAdminLogin.resx",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAdminLogin.resx",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formAdminLogin.resx",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAdminLogin.resx",
+              "RelativeToolTip": "InternetCafeSystem\\formAdminLogin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-04T10:33:35.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "formAdminLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAdminLogin.Designer.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formAdminLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAdminLogin.Designer.cs",
+              "RelativeToolTip": "InternetCafeSystem\\formAdminLogin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:33:29.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "formAdmin.resx",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAdmin.resx",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formAdmin.resx",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAdmin.resx",
+              "RelativeToolTip": "InternetCafeSystem\\formAdmin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-04T10:33:27.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "formAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAdmin.Designer.cs",
+              "RelativeToolTip": "InternetCafeSystem\\formAdmin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:33:19.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "formAddComp.resx",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAddComp.resx",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formAddComp.resx",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAddComp.resx",
+              "RelativeToolTip": "InternetCafeSystem\\formAddComp.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-04T10:33:17.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "formAddComp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAddComp.Designer.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formAddComp.Designer.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAddComp.Designer.cs",
+              "RelativeToolTip": "InternetCafeSystem\\formAddComp.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:33:07.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "formAbout.resx",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAbout.resx",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formAbout.resx",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAbout.resx",
+              "RelativeToolTip": "InternetCafeSystem\\formAbout.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-04T10:33:05.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "formAbout.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAbout.Designer.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formAbout.Designer.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAbout.Designer.cs",
+              "RelativeToolTip": "InternetCafeSystem\\formAbout.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:33:02.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "formAbout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAbout.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formAbout.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAbout.cs [Design]",
+              "RelativeToolTip": "InternetCafeSystem\\formAbout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:33:01.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\Form1.resx",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\Form1.resx",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\Form1.resx",
+              "RelativeToolTip": "InternetCafeSystem\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-04T10:32:59.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\Form1.Designer.cs",
+              "RelativeToolTip": "InternetCafeSystem\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:32:51.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formAbout.cs",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAbout.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\formAbout.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\formAbout.cs",
+              "RelativeToolTip": "InternetCafeSystem\\formAbout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:29:15.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "InternetCafeSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\rassa\\source\\repos\\Internet Cafe System\\InternetCafeSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "InternetCafeSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:26:30.995Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

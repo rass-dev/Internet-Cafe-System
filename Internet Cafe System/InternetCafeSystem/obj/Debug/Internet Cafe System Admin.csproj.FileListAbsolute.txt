@@ -1,0 +1,19 @@
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\BIBLE.exe.config
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\BIBLE.exe
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\BIBLE.pdb
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\ReaLTaiizor.dll
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\bin\Debug\ReaLTaiizor.xml
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet Cafe System Admin.csproj.AssemblyReference.cache
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.Form1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formAdmin.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formDashboard.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formSub2.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formUsers.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formAbout.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.formSub1.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.Properties.Resources.resources
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet Cafe System Admin.csproj.GenerateResource.cache
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet Cafe System Admin.csproj.CoreCompileInputs.cache
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\Internet.4465586A.Up2Date
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.exe
+C:\Users\rassa\source\repos\Internet Cafe System\BIBLE\obj\Debug\BIBLE.pdb
