@@ -137,5 +137,3 @@ NetSaga includes a membership system where users can register accounts and store
 - A ready-to-use SQL Server backup file (`.bak`) is included in the `/database` folder  
 - Application must run within the same local network for remote control features  
 - Auto-shutdown feature depends on system permissions  
-
----
